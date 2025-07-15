@@ -36,7 +36,7 @@ Ideal para creadores de contenido, investigadores de mercado o cualquier persona
 
 1.  **n8n Workflow:**
     * Importa el archivo `Youtube_Comment_Feedback_1000_con_Webhook.json` en tu instancia de n8n.
-    * En el nodo "API YouTube: Obtener Comentarios (paginar)", reemplaza `AIzaSyD6s33ouosn6CtbzKMov22PkwTtwzE1Q6Y` con tu propia Clave de API de YouTube.
+    * En el nodo "API YouTube: Obtener Comentarios (paginar)", reemplaza `AIza...` con tu propia Clave de API de YouTube.
     * Activa el workflow.
     * Copia la URL del Webhook del nodo "Webhook".
 
@@ -61,11 +61,3 @@ Ideal para creadores de contenido, investigadores de mercado o cualquier persona
 * Interfaz de usuario simple (GUI) para el script de Python.
 * Exportación a otros formatos (CSV, JSON).
 * Manejo de errores más robusto y reintentos.
-
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes ideas para mejoras o encuentras algún problema, por favor abre un 'issue' o envía un 'pull request'.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
