@@ -1,6 +1,6 @@
 # YouTube Comment Scraper y Analizador
 
-![Flujo de Trabajo n8n](YouTube Comment Scraper)
+![YouTube Comment Scraper](YouTube%20Comment%20Scraper.png)
 
 ## Descripción General
 
