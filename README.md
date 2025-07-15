@@ -1,6 +1,6 @@
 # YouTube Comment Scraper y Analizador
 
-![YouTube Comment Scraper](YouTube%20Comment%20Scraper)
+![YouTube Comment Scraper](imagenes/YouTube%20Comment%20Scraper)
 
 ## Descripción General
 
