@@ -1,6 +1,6 @@
 # YouTube Comment Scraper y Analizador
 
-![Flujo de Trabajo n8n](Captura%20de%20pantalla%202025-07-15%20142557.png)
+![Flujo de Trabajo n8n](YouTube Comment Scraper)
 
 ## Descripción General
 
