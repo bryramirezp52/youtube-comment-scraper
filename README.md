@@ -1,4 +1,4 @@
-# YouTube Comment Scraper y Analizador
+# YouTube Comment Scraper
 
 ![YouTube Comment Scraper](/imagenes/YouTube%20Comment%20Scraper.png)
 
